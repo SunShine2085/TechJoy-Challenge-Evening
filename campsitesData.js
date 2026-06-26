@@ -504,8 +504,8 @@ const campsitesData = [
             "Wildlife viewing",
             "Ranger programs"
         ],
-        "type": "mountain",
-        "tags": ["mountain", "canyon", "hiking", "utah"]
+        "type": ["mountain", "desert"],
+        "tags": ["mountain", "desert", "canyon", "hiking", "utah"]
     },
     {
         "id": 19,
@@ -532,8 +532,8 @@ const campsitesData = [
             "Stargazing",
             "Glacier viewing"
         ],
-        "type": "mountain",
-        "tags": ["mountain", "alpine", "wildlife", "montana"]
+        "type":  "mountain",
+        "tags": ["mountain","alpine", "wildlife", "montana"]
     },
     {
         "id": 20,
