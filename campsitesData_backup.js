@@ -923,7 +923,8 @@ const campsitesData = [
             "Stargazing",
             "Bat watching"
         ],
-        "type": "mountain",
+       // Added array with desert
+        "type": ["mountain", "desert"],
         "tags": ["mountain", "desert", "caves", "newmexico"]
     },
     {
